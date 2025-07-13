@@ -1,7 +1,7 @@
 def add(x, y):
     """Функция для сложения двух чисел"""
     return x + y
-#fuck off
+#fuck off rekkk
 
 def subtract(x, y):
     """Функция для вычитания двух чисел."""
